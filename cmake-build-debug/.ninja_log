@@ -1,0 +1,9 @@
+# ninja log v5
+1	789	6789262625997952	CMakeFiles/minesweeper_text_controller.dir/src/MSTextController.cpp.obj	ebce74fc41fe3e61
+19	816	6789262626226493	CMakeFiles/minesweeper.dir/src/main.cpp.obj	32cfb904af200d9b
+31	862	6789262626738460	CMakeFiles/minesweeper_text_view.dir/src/MSBoardTextView.cpp.obj	52a978b8d8955aa1
+794	926	6789262627408462	libminesweeper_text_controller.a	2fa3b7f5a446fc93
+862	962	6789262627762502	libminesweeper_text_view.a	604739194fde3e1e
+25	1161	6789262629751967	CMakeFiles/minesweeper_core.dir/src/MinesweeperBoard.cpp.obj	4a26f09f310c4570
+1162	1240	6789262630558092	libminesweeper_core.a	6f79cd29e6f6b79
+1240	1400	6789262632096133	minesweeper.exe	56badb96490d895f

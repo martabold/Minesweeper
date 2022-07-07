@@ -1,0 +1,3 @@
+C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

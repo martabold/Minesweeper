@@ -1,0 +1,21 @@
+# ninja log v5
+0	180	6789262150631069	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7f617feba6a9fffe
+0	180	6789262150631069	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7f617feba6a9fffe
+181	4860	6789262197425145	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	7923bc43f3c21326
+181	4860	6789262197425145	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	7923bc43f3c21326
+4860	6811	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b0147f590152d50
+4860	6811	0	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b0147f590152d50
+6811	6867	6789262217493128	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c68a288140028b07
+6811	6867	6789262217493128	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	c68a288140028b07
+6867	6917	6789262217999998	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d9bbf4951d5ede05
+6867	6917	6789262217999998	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	d9bbf4951d5ede05
+6918	6991	6789262218730078	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	dc67c49a336591b7
+6918	6991	6789262218730078	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	dc67c49a336591b7
+6991	7042	6789262219236130	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d533be0f0d109c6b
+6991	7042	6789262219236130	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	d533be0f0d109c6b
+7042	7095	6789262219772875	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	9e4a2c20c5bc716d
+7042	7095	6789262219772875	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	9e4a2c20c5bc716d
+7096	7167	6789262220490585	CMakeFiles/googletest-populate-complete	b8c31524cf6d0fa2
+7096	7167	6789262220490585	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b8c31524cf6d0fa2
+7096	7167	6789262220490585	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	b8c31524cf6d0fa2
+7096	7167	6789262220490585	C:/Users/marta/CLionProjects/minesweeper-master/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	b8c31524cf6d0fa2
